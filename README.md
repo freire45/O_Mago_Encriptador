@@ -7,10 +7,10 @@
  - Capaz de Copiar o Texto Encriptado ou Decodificado
 
 ## Página Inicial do Aplicativo
-![Imagem Inicial do Aplicativo](imagem1.jpg)
+![Imagem Inicial do Aplicativo](imagem1.png)
 
 ## Página Com Um Texto a Ser Codificado (Embaralhado)
-![Imagem Com Um Texto a Ser Codificado](imagem2.jpg)
+![Imagem Com Um Texto a Ser Codificado](imagem2.png)
 
 ## Página Com Um Texto a Ser Decodificado (Desembaralhado)
-![Imagem Com Um Texto a Ser Decodificado](imagem1.jpg)
+![Imagem Com Um Texto a Ser Decodificado](imagem3.png)
