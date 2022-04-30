@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="pt-bt">
+    <head>
+        <title>Mago Encriptador</title>
+        <meta charset="UTF-8">
+        <link rel="shortcut icon" href="img/chapeuMago.png" type="image/x-icon" />
+        <link href="style/style.css" type="text/css" rel="stylesheet">        
+    </head>
+    <body>
+        <header class="container">
+            <figure class="ImagemPrincipal">
+                <img src="img/chapeuMago.png" alt="Imagem do Mago Encriptador">
+            </figure>
+            <h1>Mago Encriptador</h1>
+        </header>        
+        <section class="container3">
+            <div class="areaDescriptografar">
+                <textarea id="textoDescriptar" cols="60" rows="15"></textarea>
+                <img id="mago" src="img/mago.png" alt="Mago Encriptador">
+                <h2 id="aviso1">Nenhuma mensagem encontrada</h2>
+                <p id="aviso2">Digite um texto que você deseja criptografar ou descriptografar</p>                
+            </div>
+            <div id="btnCop" class="botaoCopiar">
+                <button class="botaoCop" type="button">Copiar</button>
+            </div>
+        </section>
+        <section class="container2">
+            <div class="areaEncriptografar">
+                <textarea id="textoEncriptar" placeholder="Digite seu texto" cols="60" rows="15"></textarea>
+            </div>
+            <div class="mensagemAviso">
+                   <img src="img/info.png" alt="Ícone Mensagem de Aviso">
+                   <strong>Apenas letras minúsculas e sem acento.</strong>
+            </div>
+            <div class="botoesEncDesc">
+                <button id="botao1" type="button" >Criptografar</button>
+                <button id="botao2" type="button">Descriptografar</button>
+            </div>
+        </section>
+        
+        <footer>
+            <h2>Criado por: Erick Freire</h2>
+        </footer>        
+
+        <script src="javascript/code.js" type="text/javascript"></script>
+    </body>
+</html>
